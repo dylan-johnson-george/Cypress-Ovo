@@ -8,5 +8,8 @@
     "cy:open": "cypress open"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
 }
